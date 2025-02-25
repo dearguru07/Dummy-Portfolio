@@ -265,7 +265,7 @@
 	font-style: normal;
 	font-variant: normal;
 	line-height: 2;
-	speak: none;
+	/* speak: none; */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
